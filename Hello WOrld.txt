@@ -1,2 +1,6 @@
+
 Print "Hello World;"
 Print "Hello everyone;"
+Print " Hello my dier friend;"
+Print "Hello guys;"
+
